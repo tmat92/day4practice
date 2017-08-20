@@ -1,0 +1,48 @@
+/*header styles*/
+.logo {
+  margin: 1%;
+  height: 100px;
+  background-color: #000;
+}
+
+.nav {
+  margin: 1%;
+  margin-top:4%;
+  height: 50px;
+  background-color: #000;
+}
+
+/*jumbotron styles*/
+
+.hero {
+  margin: 1%;
+  height: 500px;
+  background-color: #000;
+}
+
+/*header 2 styles*/
+
+.intro {
+  margin: 1%;
+  margin-top:4%;
+  height: 30px;
+  background-color: #000;
+}
+
+/*section 1 and 2 styles*/
+
+.bottom {
+  margin-top: 4%;
+}
+
+.text {
+  margin: 1%;
+  height: 200px;
+  background-color: #000;
+}
+
+.video {
+  margin: 1%;
+  height: 200px;
+  background-color: #000;
+}
